@@ -1,0 +1,12 @@
+['total_area_of_buildings',
+ 'num_of_buildings',
+ 'num_of_floors',
+ 'num_of_resdnts_units',
+ 'num_of_units',
+ 'condo',
+ 'coop',
+ 'boiler_capacity',
+ 'total_consumption_gallons',
+ 'fuel_is_type_4',
+ 'heavy_user',
+ 'is_residential']

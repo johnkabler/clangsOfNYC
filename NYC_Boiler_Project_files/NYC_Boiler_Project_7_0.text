@@ -1,0 +1,9 @@
+array(['Elevator Apartments', 'Walk-Up Apartments', 'Office Buildings',
+       'Educational Structures', 'Loft Buildings', 'Condominiums',
+       'Churches, Synagogues, etc.', 'Hotels', 'Warehouses',
+       'Hospitals & Health', 'Factory & Industrial Buildings',
+       'Asylums & Homes', 'Cultural & Public Assembly',
+       'Transportation Facilities', 'Selected Government',
+       'Store Buildings', 'Miscellaneous', 'Outdoor Recreation',
+       'Utility Bureau', 'Residence - Multi-Use', 'Theatres',
+       'Garages & Gasoline Stations', 'Vacant Land'], dtype=object)
